@@ -1,0 +1,22 @@
+
+for i in range(10):
+    headers = {
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Accept-Language': 'zh-CN,zh;q=0.9',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    'Cookie': 'BIDUPSID=A8D9EA340531252B16551CBD43A8D395; PSTM=1681976911; BAIDUID=A8D9EA340531252BDEF2C13A73AFA5E7:FG=1; BD_UPN=12314753; H_WISE_SIDS=131862_114552_216844_213346_214803_219942_110085_243887_244712_249892_256348_256447_256739_254317_257586_257996_258372_258375_230288_259102_259287_258772_234207_234295_253022_260335_260806_259299_253631_261575_261718_261459_261983_259782_260440_261793_259629_236312_262490_262452_261869_262607_262677_262597_262604_249411_259519_259948_262743_262746_262913_263190_256998_263221_263306_263279_243615_263343_261683_263434_254299_261411_263584_257289_262439_262533_263644_262408_262910_257169_262289_263906_263363_256419_264175_264089_264228_257442_256225_262260_255224_264018_264368_259558_256083_264383_264423_264452_264285_256152_264626_264246_258698_264749_261934_264820_264136_261035_261663; ZFY=CMMricp5SfogOfi1RswFaP4NBZN6t5zy:Axurblw8al4:C; BAIDUID_BFESS=A8D9EA340531252BDEF2C13A73AFA5E7:FG=1; BD_HOME=1; H_PS_PSSID=36550_38943_38860_38958_38956_38793_38841_38581_38918_38802_38840_38640_26350; BA_HECTOR=0l8k2kalaga00l840l8gal811i9o5dn1p',
+    'Host': 'www.baidu.com',
+    'Pragma': 'no-cache',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+    'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"'
+    }
+
